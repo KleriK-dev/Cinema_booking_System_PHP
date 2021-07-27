@@ -1,0 +1,20 @@
+****BEFORE USING THE APPLICATION****
+
+1. Copy and paste cinema folder to C:/xampp/htdocs
+
+2. Go to phpMyAdmin and create a database and name it cinema.
+
+3. Then import the sql file that is inside the C:/xampp/htdocs/cinema/database folder.
+
+4. Next create a user with the following data:
+	
+	User name: CinemaCity
+	Host name: localhost
+	Password: 1234
+
+5. Add Data privileges (SELECT, INSERT, UPDATE, DELETE) on cinema database for the user you just created.
+
+6. Then open the application and log in as an administrator:
+
+	Username: user
+	Password: user
