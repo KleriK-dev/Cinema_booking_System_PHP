@@ -1,8 +1,8 @@
 <?php
 
 $servername = "localhost";
-$dbUsername = "CinemaCity";
-$dbPassword = "1234";
+$dbUsername = "root";
+$dbPassword = "";
 $dbName = "cinema";
 
 //Create connection
